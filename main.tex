@@ -1,0 +1,138 @@
+\documentclass[letterpaper, 10 pt, conference]{ieeeconf} 
+\usepackage{ifpdf}
+\usepackage{cite}
+\usepackage{amsmath,bm}
+\usepackage{amssymb}
+\usepackage{algorithmic}
+\usepackage{array}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{mathtools}
+\usepackage{subfigure}
+\usepackage{hyperref}
+\newcommand{\RomanNumeralCaps}[1]
+    {\MakeUppercase{\romannumeral #1}}
+
+\IEEEoverridecommandlockouts       % This command is only needed if
+                                    % you want to use the \thanks command
+\overrideIEEEmargins                % Needed to meet printer requirements.
+\newtheorem{rem}{Remark}
+\setlength{\textfloatsep}{2.0pt plus 2.0pt minus 2.0pt}
+\abovecaptionskip
+\belowcaptionskip
+\begin{document}
+\title{ROS-Based \textbf{M}ulti-\textbf{A}gent \textbf{S}ystems \textbf{CO}ntrol Hybrid \textbf{T}estbed (MASCOT)}
+\author{Arvind Pandit and Ameer K. Mulla\thanks{Arvind Pandit and Ameer K. Mulla are with the Department of Electrical Engineering, Indian Institute of Technology Dharwad, Karnataka, India. Email: \texttt{arvind.pandit.21@iitdh.ac.in, ameer@iitdh.ac.in}}}
+
+
+
+%----------------- Title  ---------------------------------------
+\maketitle
+%-------------------Abstract and Keywords----------------------------
+\begin{abstract}
+
+
+\end{abstract}
+% % Note that keywords are not normally used for peer review papers.
+% \begin{keywords}
+% Multi-Agent Systems, Simulation Test-bed, ROS, Gazebo
+% \end{keywords}
+
+
+%---------------- Introduction -----------------------------------------
+\section{Introduction}
+
+
+
+%\textit{Notations:}
+
+%---------------- Preliminaries -----------------------------------------
+
+\section{Preliminaries}\label{sec:prelim}
+
+
+\subsection{Quadcopter Dynamics}\label{subsec:qd}
+
+
+\subsection{Quadcopter Dynamics as Double Integrators}\label{subsec:di}
+
+
+\subsection{Preliminaries of Distributed Control}
+\subsection{Preliminaries of HITL Control}
+
+\subsection{Preliminaries of Formation Control}
+
+
+
+
+
+\section{MASCOT: Structure and Features}\label{sec:mascot}
+
+
+
+\subsection{Tools Used}\label{subsec:tools}
+\subsubsection{Robot Operating System (ROS)}
+
+\subsubsection{Gazebo}
+
+\subsubsection{Falcon Haptic Controller}
+
+\subsubsection{Crazyflie Quadcopter}
+
+\subsubsection{Quadcopter Simulation Package}
+
+
+
+
+\subsection{Control Block}
+
+\subsubsection{Heading Control}
+
+\subsubsection{Position Control}
+
+
+\subsection{Architecture and Features of MASCOT}
+
+\subsection{Configuring the Simulation}
+
+\subsection{Configuring the Hybrid - Simulation}
+
+
+%---------------------- Results ------------------------------------------------
+
+\section{Examples}\label{sec: Use Cases}
+
+
+
+\subsection{Simulation with HITL}
+
+\subsubsection{Waypoint Navigation}
+\subsubsection{Consensus Algorithms}
+\subsubsection{Min-max time Consensus Control}
+\subsubsection{Formation Control}
+
+\subsection{Hybrid Simulation with HITL}
+
+\subsubsection{Waypoint Navigation}
+\subsubsection{Consensus Algorithms}
+\subsubsection{Min-max time Consensus Control}
+\subsubsection{Formation Control}
+
+%---------------------- Conclusions ----------------------------------------------
+
+\section{Conclusion and Future Work} \label{sec:conc}
+
+
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,references}
+
+% \begin{IEEEbiography}{Michael Shell}
+% Biography text here.
+% \end{IEEEbiography}
+
+
+
+\end{document}
+
+
