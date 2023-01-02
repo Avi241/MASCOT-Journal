@@ -2,7 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: IEEEtran.bst
-I found no \citation commands---while reading file main.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -10,50 +9,52 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: IEEEabrv.bib
 Database file #2: references.bib
+Warning--entry type for "ros" isn't style-file defined
+--line 54 of file references.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 0 entries,
+You've used 6 entries,
             4087 wiz_defined-function locations,
-            1344 strings with 17606 characters,
-and the built_in function-call counts, 104 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 19
-:= -- 27
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 3
+            1385 strings with 18630 characters,
+and the built_in function-call counts, 3497 in all, are:
+= -- 252
+> -- 76
+< -- 20
++ -- 41
+- -- 14
+* -- 161
+:= -- 543
+add.period$ -- 12
+call.type$ -- 6
+change.case$ -- 3
+chr.to.int$ -- 48
+cite$ -- 6
+duplicate$ -- 245
+empty$ -- 331
+format.name$ -- 18
+if$ -- 803
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 23
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 6
+missing$ -- 48
+newline$ -- 45
+num.names$ -- 6
+pop$ -- 136
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1
+skip$ -- 273
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 114
+swap$ -- 177
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 0
+type$ -- 6
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 22
-(There was 1 error message)
+while$ -- 13
+width$ -- 7
+write$ -- 75
+(There was 1 warning)

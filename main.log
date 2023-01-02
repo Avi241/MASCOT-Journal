@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.30)  9 DEC 2022 22:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.30)  29 DEC 2022 23:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.tex
-(/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.tex
+**/home/arvind/MASCOT-Journal/main.tex
+(/home/arvind/MASCOT-Journal/main.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/ieeeconf.cls
+L3 programming layer <2020-02-14> (/home/arvind/MASCOT-Journal/ieeeconf.cls
 Document Class: ieeeconf 2016/4/23 revision V1.6b by Pradeep Misra
 \@IEEEtrantmpdimenA=\dimen134
 \@IEEEtrantmpdimenB=\dimen135
@@ -390,7 +390,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count281
 \l__pdf_internal_box=\box50
-) (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.aux)
+) (/home/arvind/MASCOT-Journal/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -442,7 +442,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
- (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.out) (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.out)
+ (/home/arvind/MASCOT-Journal/main.out) (/home/arvind/MASCOT-Journal/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -467,18 +467,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 \OT1/ptm/m/n/8 Kar-nataka, In-dia. Email: \OT1/pcr/m/n/8 arvind.pandit.21@iitdh.ac.in,
  []
 
-(/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.bbl
+Package epstopdf Info: Source file: <Quadcopter.eps>
+(epstopdf)                    date: 2022-12-09 16:58:08
+(epstopdf)                    size: 257092 bytes
+(epstopdf)             Output file: <Quadcopter-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-12-28 11:38:19
+(epstopdf)                    size: 255542 bytes
+(epstopdf)             Command: <repstopdf --outfile=Quadcopter-eps-converted-to.pdf Quadcopter.eps>
+(epstopdf)             \includegraphics on input line 58.
+Package epstopdf Info: Output file is already uptodate.
+<Quadcopter-eps-converted-to.pdf, id=146, 498.86375pt x 352.31625pt>
+File: Quadcopter-eps-converted-to.pdf Graphic file (type pdf)
+<use Quadcopter-eps-converted-to.pdf>
+Package pdftex.def Info: Quadcopter-eps-converted-to.pdf  used on input line 58.
+(pdftex.def)             Requested size: 199.54196pt x 140.924pt.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 62.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.bbl:24: LaTeX Error: Something's wrong--perhaps a missing \item.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \end{thebibliography}
-                          
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ </home/arvind/MASCOT-Journal/Quadcopter-eps-converted-to.pdf>]
+Overfull \hbox (5.29158pt too wide) detected at line 157
+[]
+ []
+
+<HITL.jpeg, id=177, 398.48875pt x 127.47626pt>
+File: HITL.jpeg Graphic file (type jpg)
+<use HITL.jpeg>
+Package pdftex.def Info: HITL.jpeg  used on input line 230.
+(pdftex.def)             Requested size: 239.0951pt x 76.48633pt.
+[2]
+<ros-arch.png, id=195, 1265.72874pt x 584.1825pt>
+File: ros-arch.png Graphic file (type png)
+<use ros-arch.png>
+Package pdftex.def Info: ros-arch.png  used on input line 249.
+(pdftex.def)             Requested size: 189.85112pt x 87.62358pt.
+<falcon.jpg, id=197, 4015.0pt x 3011.25pt>
+File: falcon.jpg Graphic file (type jpg)
+<use falcon.jpg>
+Package pdftex.def Info: falcon.jpg  used on input line 263.
+(pdftex.def)             Requested size: 200.76176pt x 150.57132pt.
+<crazyflie.jpg, id=198, 4015.0pt x 3011.25pt>
+File: crazyflie.jpg Graphic file (type jpg)
+<use crazyflie.jpg>
+Package pdftex.def Info: crazyflie.jpg  used on input line 272.
+(pdftex.def)             Requested size: 240.8896pt x 180.6672pt.
+ [3 </home/arvind/MASCOT-Journal/HITL.jpeg> </home/arvind/MASCOT-Journal/ros-arch.png> </home/arvind/MASCOT-Journal/falcon.jpg>]
+Underfull \hbox (badness 3209) in paragraph at lines 281--282
+ \OT1/ptm/m/it/10 6) Quad-copter Sim-u-la-tion Pack-age: [][][] \OT1/ptm/m/n/10 The quad-copter
+ []
+
+(/home/arvind/MASCOT-Journal/main.bbl
+Underfull \hbox (badness 2359) in paragraph at lines 35--38
+[]\OT1/ptm/m/n/8 A. Joshi, N. Limbu, I. Ahuja, A. K. Mulla, H. Chung, and
+ []
 
 )
 
@@ -492,40 +538,29 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the US letter (8.5in X 11in) paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
- (/home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: E89ACFF4E0F5AF04CA9C40050F0B02AA;2397
-(rerunfilecheck)             After:  A1E8991482CB32C1C3FD1800420870D5;2444.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 334.
+[4 </home/arvind/MASCOT-Journal/crazyflie.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 334.
+ (/home/arvind/MASCOT-Journal/main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 334.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 334.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 27B88374F7C1DB86057AD432995AAA0B;2629.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 334.
  ) 
 Here is how much of TeX's memory you used:
- 8497 strings out of 481239
- 127849 string characters out of 5920377
- 398966 words of memory out of 5000000
- 23558 multiletter control sequences out of 15000+600000
- 570344 words of font info for 100 fonts, out of 8000000 for 9000
+ 8635 strings out of 481239
+ 128692 string characters out of 5920377
+ 411495 words of memory out of 5000000
+ 23642 multiletter control sequences out of 15000+600000
+ 578463 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,9n,37p,357b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /home/arvind/pCloudDrive/Drone_in_fire/Double_integral_control_of_drone/MASCOT-Journal/main.pdf (1 page, 55949 bytes).
+ 34i,15n,37p,1806b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/arvind/MASCOT-Journal/main.pdf (4 pages, 3988890 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 299 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 306 words of extra memory for PDF output out of 10000 (max. 10000000)
 
